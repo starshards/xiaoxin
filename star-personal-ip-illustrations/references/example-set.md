@@ -8,5 +8,6 @@ These images are the canonical baseline. Use them to calibrate identity, line we
 - `assets/star-work-ip-reference.png`: work-context reference with the red conch company emblem placed only on the held card. Use it for company, project, delivery, or performance-review scenes; do not add the emblem to unrelated personal illustrations.
 - `assets/examples/star/01-card-gold-line-spark.png`: reference only when the content is specifically about connecting scattered pieces into a working or verified result; it intentionally uses the same approved standalone pose.
 - `assets/examples/star/02-coding-workstation.png`: reference for coding and focused-work scenes. Calibrate the 2.25–2.75-head Q proportion, compact seated body, simplified cartoon workstation, monitor back facing the viewer, and mouse placed on the character's anatomical right-hand side. Do not treat the workstation as a mandatory identity element.
+- `assets/examples/star/03-crayon-blue-white.png`: primary `crayon-blue` reference. Use its cobalt wax-crayon texture, pure empty white background, pale-pink cheek blush, and small woven-mesh sneakers while preserving the shared summer-IP identity.
 
 For other topics, keep the same character but choose another grammar from `references/personal-ip.md`. The card, gold line, and sparkle are not mandatory identity features.
