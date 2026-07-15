@@ -54,4 +54,4 @@ star-personal-ip-illustrations/
 
 ## 来源与许可
 
-本项目 fork 自 [helloianneo/ian-xiaohei-illustrations](https://github.com/helloianneo/ian-xiaohei-illustrations)，在保留原许可证和署名的基础上，人物、视觉规则、提示模板与基准图片已经改造成 Star 的个人版本。详见 [NOTICE.md](NOTICE.md) 和 [UPSTREAM_README.md](UPSTREAM_README.md)。
+本项目 fork 自 [helloianneo/ian-xiaohei-illustrations](https://github.com/helloianneo/ian-xiaohei-illustrations)，在保留原许可证和署名的基础上，人物、视觉规则、提示模板与基准图片已经改造成 Star 的个人版本。详见 [NOTICE.md](NOTICE.md)。
