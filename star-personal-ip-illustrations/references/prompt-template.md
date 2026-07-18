@@ -1,13 +1,13 @@
 # Prompt Template
 
-Generate one standalone 16:9 horizontal Chinese article illustration. Select one character mode and its matching identity reference: `assets/star-main-ip-reference.png` for `main-ip`, or `assets/star-chibi-ip-reference.png` for `chibi-sticker`. Then select one rendering style through `style-dna.md`.
+Generate one standalone 16:9 horizontal Chinese article illustration. Select one character mode and its matching identity reference: `assets/star-main-ip-reference.png` for `main-ip`, or `assets/star-chibi-ip-reference.png` for `chibi-sticker`. Use the single approved cobalt wax-crayon rendering system from `style-dna.md` and `styles/crayon-blue.md`.
 
 ```text
 Original personal-IP illustration for Star. Pure white 16:9 horizontal canvas with large clean negative space.
 
 Character mode: {main-ip or chibi-sticker}. Preserve the matching reference's body ratio and canonical outfit.
 
-Selected rendering style: {clean-line or crayon-blue}. Follow only the matching profile in `references/styles/` and do not mix the two rendering systems.
+Rendering style: tactile cobalt wax crayon with visibly handmade strokes. Follow `references/styles/crayon-blue.md`.
 
 Recurring identity: a petite adult woman with long black or dark-cobalt wavy hair, soft center-parted curtain fringe, large clear dark eyes, and a calm intelligent expression. Permanent accessories: vivid red bow on her anatomical left side of the hair, pink square smartwatch on her anatomical left wrist, and a black cord necklace with a small warm-gold rectangular pendant. Never mirror or omit these accessories.
 

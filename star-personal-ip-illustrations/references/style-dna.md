@@ -1,12 +1,7 @@
 # Style DNA
 
-The character identity in `personal-ip.md` is shared by every style. Character mode controls body proportion and outfit; rendering style controls line and color treatment. Never drop or mirror the red bow, pink smartwatch, or gold pendant when switching either dimension.
+Use one shared cobalt wax-crayon rendering system for every image. Character mode controls body proportion and outfit; it does not create a separate drawing style. Never drop or mirror the red bow, pink smartwatch, or gold pendant when switching character modes.
 
-Choose exactly one style per image:
+Read `styles/crayon-blue.md` for the complete rendering profile. The same tactile cobalt linework applies to personal portraits, review decks, explanatory articles, processes, and delivery narratives. Formal content becomes clearer through restrained composition and fewer decorative marks, not by switching to another line-art style.
 
-- **clean-line** — polished black line art for formal review decks, explanatory articles, processes, and delivery narratives. Read `styles/clean-line.md`.
-- **crayon-blue** — tactile cobalt wax-crayon rendering for personal, editorial, friendly, and playful illustrations. Read `styles/crayon-blue.md`.
-
-Honor an explicit style request. If the user does not specify one, use `clean-line` for formal or information-dense work and `crayon-blue` when personality and warmth matter more. Default to `clean-line` when the context is ambiguous.
-
-Both styles should feel light, personal, and quietly capable. Neither may resemble a serious technical diagram, corporate stock art, a fashion portrait, or a child mascot.
+The result should feel handmade, light, personal, and quietly capable. It may not resemble a serious technical diagram, corporate stock art, a fashion portrait, or a child mascot.

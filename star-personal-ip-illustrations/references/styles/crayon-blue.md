@@ -1,6 +1,6 @@
 # Crayon Blue
 
-Use this profile for personal, editorial, friendly, and playful illustrations.
+Use this profile for every illustration, including formal review decks, explanatory work, personal portraits, editorial scenes, and playful Q-version accents.
 
 - Pure white background with generous negative space. Keep it completely free of decorative scribbles unless the user explicitly asks for them.
 - Render the character with tactile wax-crayon or oil-pastel grain, visibly uneven hand-drawn strokes, and bold cobalt-blue outlines.
