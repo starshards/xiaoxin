@@ -1,6 +1,6 @@
 # Style DNA
 
-The character identity in `personal-ip.md` is shared by every style. Never fork the face, hairstyle, body proportion, outfit, pendant, or shoe scale into separate character definitions.
+The character identity in `personal-ip.md` is shared by every style. Character mode controls body proportion and outfit; rendering style controls line and color treatment. Never drop or mirror the red bow, pink smartwatch, or gold pendant when switching either dimension.
 
 Choose exactly one style per image:
 
